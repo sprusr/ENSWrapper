@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ensdomains/ens": "^0.3.3",
+    "openzeppelin-solidity": "^2.1.2"
+  }
+}
